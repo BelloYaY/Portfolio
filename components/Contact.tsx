@@ -81,7 +81,7 @@ const Contact: React.FC = () => {
 
             <Reveal delay={0.8}>
               <div className="text-secondary-light dark:text-gray-600 text-[10px] md:text-xs uppercase tracking-widest md:text-right">
-                &copy; 2024 Devansh Vadgama.
+                &copy; 2026 Devansh Vadgama.
                 <br />
                 Mumbai, India.
               </div>
